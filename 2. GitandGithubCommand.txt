@@ -1,0 +1,36 @@
+Git >> Version Control
+
+V1
+V2
+V3
+New V4
+
+>> It distributed (On cloud)
+>> Collaboration
+>> Tracking changes
+>> Recovery
+
+https://git-scm.com/downloads/win
+
+GitHub
+BitBucket
+Gitlabs
+Gitpod
+
+>> for 1st time need to configure in our system
+git config --global user.name "mac11072001"
+git config --global user.email "sudhakarvishwakarma@gmail.com"
+
+git config --global Color.ui auto
+
+mandatory Commands:
+>> git init
+>>git remote add origin https://github.com/mac11072001/Gitdemo.git
+
+
+
+git pull origin main
+git status
+git add .
+git commit-m "Commit Message"
+git push

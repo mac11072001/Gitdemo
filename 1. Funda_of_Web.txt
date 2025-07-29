@@ -1,0 +1,77 @@
+MEAN Stack
+>> M: MongoDB (Database)
+>> E: ExpressJs (Backend)
+>> A: Angular (Frontend)
+>> N: Node Js (Backend)
+
+Three Pillar
+>> HTML (Hyper text Markup Language)
+>> CSS (Cascading Style Sheets)
+>> Js (Java Scripts)
+
+Other Stack 
+MEAN, MERN, Java Full Stack 
+
+Web Dev
+>> Building/Developers Team
+>> Testing Team (Manual Testers, Auto Testers)
+>> Hosting Team (DevOps)
+>> Maintenace Team/Support Team
+
+SDCL (Software Development Life Cycle)
+
+>> WaterFall Model
+>> Agile Model
+>> Spiral Model
+>> Interative Model
+>> Incremental Model
+>> V shaped Model
+>> RAD (Rapid Application Development) Model
+
+URL (Uniform Resouce Locator)
+
+https://www.instagram.com/
+https://education.sudhakar.edu/fullstack
+
+https: Protcol
+sudhakar : Server/Domain name
+education : Sub -Domain
+.edu TDL: (Top Level Domain)
+fullstack : Path/Location
+
+Protol:
+ >> Set of rules/Instruction
+    http: Hyper text transfer Protcol
+    https: Hyper text transfer Protcol Secure
+    tcp: Transmission Control Protcol
+    udp: user datagram Protcol
+    smtp: simple mail transfer Protcol
+    ftp: file transfer Protcol  
+    ip: Internet Protcol (IpV4 and IpV6)
+
+>> Clinet/Web page ......{User Name and Pwd}.........> Instagram Server
+>> SSL (Secure Socket Layer)
+
+Sever/Domain Name:- 
+    >> Unique Identifier
+        >> Eg. Google, Amazon
+
+Sub-Domain Name:
+    >> Gmeet
+    >> Gmap
+    >> gPhoto
+    >> Gmail
+    >> Gfile
+    >> Gchrome
+    >> GCalendar
+    >> Gpay
+
+    >> amazon.com
+    >>aws.Amazon.com
+
+TLD (Top Level Domain):
+Amazon.in
+Amazon.com
+Amazon.org
+Amazon.Uk
+Amazon.edu
